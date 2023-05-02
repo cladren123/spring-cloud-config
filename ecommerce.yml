@@ -5,4 +5,4 @@ token:
   # secret: user_token_native_ecommerce
 
 gateway:
-  ip: 192.168.137.1
+  ip: 172.18.0.5
